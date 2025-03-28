@@ -1,0 +1,21 @@
+﻿  ConsoleGameTemplate.cpp
+C:\Users\User\Desktop\실험용\김현영Consoel\ConsoleGameTemplate\ConsoleGameTemplate.cpp(56,17): warning C4552: '*': 식의 결과가 사용되지 않습니다.
+C:\Users\User\Desktop\실험용\김현영Consoel\ConsoleGameTemplate\ConsoleGameTemplate.cpp(65,17): warning C4552: '*': 식의 결과가 사용되지 않습니다.
+  ConsoleRenderer.cpp
+C:\Users\User\Desktop\실험용\김현영Consoel\ConsoleGameTemplate\ConsoleRenderer.cpp(76,20): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'HANDLE'입니다.
+C:\Users\User\Desktop\실험용\김현영Consoel\ConsoleGameTemplate\ConsoleRenderer.cpp(76,20): warning C4313: 'printf': 서식 문자열의 '%d'이(가) HANDLE' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\User\Desktop\실험용\김현영Consoel\ConsoleGameTemplate\ConsoleRenderer.cpp(76,20): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\Users\User\Desktop\실험용\김현영Consoel\ConsoleGameTemplate\ConsoleRenderer.cpp(76,20):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+      C:\Users\User\Desktop\실험용\김현영Consoel\ConsoleGameTemplate\ConsoleRenderer.cpp(76,20):
+      누락된 variadic 인수 2이(가) 서식 문자열 '%d'에 필요합니다.
+  
+  Intput.cpp
+  PlayScene.cpp
+  SceneManager.cpp
+  Time.cpp
+  SceneManager.h
+  코드를 생성하고 있습니다...
+C:\Users\User\Desktop\실험용\김현영Consoel\ConsoleGameTemplate\SceneManager.cpp(53,1): warning C4715: 'SceneManager::SceneTypeCheck': 모든 제어 경로에서 값을 반환하지는 않습니다.
+x64\Debug\SceneManager.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  ConsoleGameTemplate.vcxproj -> C:\Users\User\Desktop\실험용\김현영Consoel\x64\Debug\ConsoleGameTemplate.exe
